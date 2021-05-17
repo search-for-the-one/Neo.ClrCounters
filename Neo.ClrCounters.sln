@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.ClrCounters", "Neo.ClrCounters\Neo.ClrCounters.csproj", "{6E628A45-3535-466B-BFD9-99FC6F3997AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.ClrCounters.Tests", "Neo.ClrCounters.Tests\Neo.ClrCounters.Tests.csproj", "{561ABD2A-D009-4022-8785-A913FC0AA265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.ClrCounters.Integration", "Neo.ClrCounters.Integration\Neo.ClrCounters.Integration.csproj", "{20B2230E-D2FE-4106-ABB2-08572D0A7599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E628A45-3535-466B-BFD9-99FC6F3997AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E628A45-3535-466B-BFD9-99FC6F3997AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E628A45-3535-466B-BFD9-99FC6F3997AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E628A45-3535-466B-BFD9-99FC6F3997AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561ABD2A-D009-4022-8785-A913FC0AA265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561ABD2A-D009-4022-8785-A913FC0AA265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561ABD2A-D009-4022-8785-A913FC0AA265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561ABD2A-D009-4022-8785-A913FC0AA265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B2230E-D2FE-4106-ABB2-08572D0A7599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B2230E-D2FE-4106-ABB2-08572D0A7599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B2230E-D2FE-4106-ABB2-08572D0A7599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B2230E-D2FE-4106-ABB2-08572D0A7599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
